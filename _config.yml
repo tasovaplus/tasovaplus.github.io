@@ -59,7 +59,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -117,7 +117,7 @@ author:
     - label: "1 junio 2023 - 31 mayo 2025"
       icon: "fas fa-fw fa-calendar"
       url: ""
-    - label: "14.5000 €"
+    - label: "14.500 €"
       icon: "fas fa-fw fa-euro-sign"
       url: ""
     - label: "Ministerio de Ciencia e Innovación"
