@@ -294,3 +294,17 @@ defaults:
       comments: false
       share: false
       related: false
+  - scope:
+      path: ""
+      type: groups_members
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+
+collections_dir: my_collections
+collections:
+  groups_members:
+    output: true
+    sort_by: number

@@ -1,6 +1,6 @@
 ---
-title: Noticias
-permalink: "/noticias/"
+title: Tools
+permalink: "/tools/"
 author_profile: true
 sitemap: false
 classes: wide
