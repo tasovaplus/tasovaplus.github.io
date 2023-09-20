@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Miembros"
     url: /miembros/
-  - title: "Tools"
-    url: /tools/
+  - title: "Herramientas"
+    url: /herramientas/
   - title: "Actividades"
     url: /actividades/
   - title: "Contribuciones"
