@@ -19,7 +19,3 @@ redirect_from:
 El objetivo de la red es mejorar la colaboración y aumentar la visibilidad de las investigaciones en el campo de la arquitectura de software y la variabilidad a nivel nacional e internacional.
 
 Actualmente la red está conformada por 13 universidades y fortalecerá las sinergias entre los diferentes grupos de investigación y universidades colaboradoras. La red está coordinada por el grupo *DiversoLab* como representante de la Universidad de Sevilla con el profesor David Benavides como investigador principal.
-
----
-
-![TASOVA Plus](assets/images/tasovaplus-main.jpg "TASOVA Plus")

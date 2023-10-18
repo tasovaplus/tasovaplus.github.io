@@ -311,3 +311,5 @@ collections:
   tools:
     output: true
     sort_by: number
+  actividades:
+    output: true

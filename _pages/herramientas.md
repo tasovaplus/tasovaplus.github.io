@@ -21,9 +21,9 @@ classes: wide
       {% if tool.authors %}
       <p class="card-text" style="font-size: 0.6rem;"><em>{{tool.authors}}</em></p>
       {% endif %}
-      <a href="{{tool.link}}" title="Go to URL"><i class="bi bi-box-arrow-up-right"></i></a>
+      <a href="{{tool.link}}" target="_blank" title="Go to URL"><i class="bi bi-box-arrow-up-right"></i></a>
       {% if tool.doi %}
-        <a href="{{tool.doi}}" title="Go to paper reference"><i class="bi bi-file-earmark-ppt-fill"></i></a>
+        <a href="{{tool.doi}}" target="_blank" title="Go to paper reference"><i class="bi bi-file-earmark-ppt-fill"></i></a>
       {% endif %}
     </div>
   </div>

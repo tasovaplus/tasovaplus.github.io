@@ -13,6 +13,6 @@ classes: wide
 
 <p float="left">
 {% for member in universities %}
-  <a href="{{member.university.url}}" title="{{member.university.name}}"><img src="{{member.university.logo}}" alt="{{member.university.name}}" width="200px"/></a>
+  <a href="{{member.university.url}}" target="_blank" title="{{member.university.name}}"><img src="{{member.university.logo}}" alt="{{member.university.name}}" width="200px"/></a>
 {% endfor %}
 </p>

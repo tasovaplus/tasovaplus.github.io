@@ -6,4 +6,29 @@ sitemap: false
 classes: wide
 ---
 
-*[En construcción...]*
+{% assign actividades = site.actividades | reverse %}
+
+
+{% for activity in actividades %}
+<div class="container">
+  <div class="d-flex flex-wrap">
+  <div class="card">
+    <div class="row g-0">
+        <div class="col-md-4">
+        <a href="{{activity.link}}" title="Go to URL" target="_blank"><img src="{{activity.logo}}" class="card-img" alt="{{activity.name}}"></a>
+        </div>
+    <div class="col-md-8">
+        <div class="card-body">
+        <h6 class="card-title">{{activity.name}}</h6>
+        <p class="card-text" style="font-size: 0.7rem;">{{activity.description}}</p>
+        {% if activity.organizers %}
+        <p class="card-text" style="font-size: 0.6rem;"><em>Organizadores: {{activity.organizers}}</em></p>
+        {% endif %}
+        </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+{% endfor %}
+  
