@@ -16,7 +16,7 @@ remote_theme            : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-ES"
 title                    : "TASOVA Plus"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -26,7 +26,7 @@ url                      : "https://tasovaplus.github.io/" # the base hostname &
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tasovaplus/tasovaplus.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to disp"lay in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/tasovaplus.png"
 masthead_title           : "TASOVA Plus" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -131,7 +131,7 @@ author:
       url: "https://twitter.com/davbencue"
     - label: "13 miembros"
       icon: "fas fa-fw fa-users"
-      url: "/members/"
+      url: "/miembros/"
 
 # Site Footer
 footer:
