@@ -21,6 +21,9 @@ classes: wide
         <div class="card-body">
         <h6 class="card-title">{{activity.name}}</h6>
         <p class="card-text" style="font-size: 0.7rem;">{{activity.description}}</p>
+        {% if activity.fecha %}
+        <p class="card-text" style="font-size: 0.6rem;"><em>Fecha y lugar: {{activity.fecha}}</em></p>
+        {% endif %}
         {% if activity.organizers %}
         <p class="card-text" style="font-size: 0.6rem;"><em>Organizadores: {{activity.organizers}}</em></p>
         {% endif %}

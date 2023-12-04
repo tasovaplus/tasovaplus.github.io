@@ -1,5 +1,6 @@
 ---
 date: 2023-09-06
+fecha: 6 y 7 de septiembre 2023, Málaga
 name: 25th International Workshop on Configuration (ConfWS 2023)
 logo: /assets/images/logos/actividades/confws.jpg
 link: https://confws.github.io/2023/
