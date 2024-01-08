@@ -19,7 +19,7 @@ classes: wide
       <h6 class="card-title">{{tool.name}}</h6>
       <p class="card-text" style="font-size: 0.7rem;">{{tool.description}}</p>
       {% if tool.authors %}
-      <p class="card-text" style="font-size: 0.6rem;"><em>{{tool.authors}}</em></p>
+      <p class="card-text" style="font-size: 0.6rem;"><em>Autores: {{tool.authors}}</em></p>
       {% endif %}
       <a href="{{tool.link}}" target="_blank" title="Go to URL"><i class="bi bi-box-arrow-up-right"></i></a>
       {% if tool.doi %}
