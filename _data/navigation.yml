@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Miembros"
     url: /miembros/
+  - title: "Programa"
+    url: /programa/
   - title: "Herramientas"
     url: /herramientas/
   - title: "Actividades"
