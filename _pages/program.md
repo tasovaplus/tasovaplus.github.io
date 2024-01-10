@@ -12,6 +12,7 @@ redirect_from:
 
 |                   | *Martes, 16 Enero 2024* |
 | ------------------|----------------------------------------------------|
+| 11:00 | *Café* |
 | 12:00  | &nbsp;&nbsp;&nbsp;*-- Moderador: David Benavides --* **Bienvenida y presentación**  |
 |        | &nbsp;&nbsp;&nbsp;*-- Moderador: Silvia Abrahao --*  |
 | 12:15  | UPV/EHU - **RoadmapPL: Aiding newcomers with personalized itineraries** |
