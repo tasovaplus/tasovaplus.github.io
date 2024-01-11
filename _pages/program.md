@@ -7,7 +7,7 @@ classes: wide
 redirect_from:
 - "/programa/"
 ---
-<sub>*Reunión de la red TASOVA PLUS los días 16 y 17 de enero de 2024 en Sevilla.*</sub>
+<sub>*Reunión de la red TASOVA PLUS los días 16 y 17 de enero de 2024 en Sevilla. ETSI Informática: https://maps.app.goo.gl/YC8fa9hT5zjxiab19* </sub>
 
 
 |                   | *Martes, 16 Enero 2024*  (AULA A2.11)|
