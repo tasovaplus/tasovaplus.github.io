@@ -10,7 +10,7 @@ redirect_from:
 <sub>*Reunión de la red TASOVA PLUS los días 16 y 17 de enero de 2024 en Sevilla.*</sub>
 
 
-|                   | *Martes, 16 Enero 2024* |
+|                   | *Martes, 16 Enero 2024*  (AULA A2.11)|
 | ------------------|----------------------------------------------------|
 | 11:00 | *Café* |
 | 12:00  | &nbsp;&nbsp;&nbsp;*-- Moderador: David Benavides --* **Bienvenida y presentación**  |
@@ -24,7 +24,7 @@ redirect_from:
 | 18:00  | Fin del primer día  |
 | 20:00 | *Cena* |
 
-|                   | *Miércoles, 17 Enero 2024* |
+|                   | *Miércoles, 17 Enero 2024* (AULA A2.11) |
 | ------------------|----------------------------------------------------|
 |   | &nbsp;&nbsp;&nbsp;*-- Moderador: Lidia Fuentes --*  |
 | 9:00  | UCA - **Procesamiento de eventos complejos: Fundamentos y arquitecturas software** |
