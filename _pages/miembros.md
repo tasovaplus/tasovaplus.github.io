@@ -23,7 +23,7 @@ classes: wide
     <div class="col-md-8">
         <div class="card-body">
         <h6 class="card-title">{{member.university.name}}</h6>
-        <p class="card-text" style="font-size: 0.6rem;"><em>IP: {{member.university.ip}}</em></p>
+        <p class="card-text" style="font-size: 0.6rem;"><em>{{member.university.ip}}</em></p>
         </div>
     </div>
   </div>
