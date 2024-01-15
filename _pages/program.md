@@ -14,7 +14,7 @@ redirect_from:
 | ------------------|----------------------------------------------------|
 | 11:00 | *Café* |
 | 12:00  | &nbsp;&nbsp;&nbsp;*-- Moderador: David Benavides --* **Bienvenida y presentación**  |
-|        | &nbsp;&nbsp;&nbsp;*-- Moderador: Silvia Abrahao --*  |
+|        | &nbsp;&nbsp;&nbsp;*-- Moderadora: Silvia Abrahao --*  |
 | 12:15  | UPV/EHU - **RoadmapPL: Aiding newcomers with personalized itineraries** |
 | 12:30  | UPV/EHU - **Implicit Feedback in pure::variants** |
 | 13:00  | UNED - **Optimización de configuraciones en SPLs: problemas abiertos y oportunidades de investigación** |
@@ -26,7 +26,7 @@ redirect_from:
 
 |                   | *Miércoles, 17 Enero 2024* (AULA A2.11) |
 | ------------------|----------------------------------------------------|
-|   | &nbsp;&nbsp;&nbsp;*-- Moderador: Lidia Fuentes --*  |
+|   | &nbsp;&nbsp;&nbsp;*-- Moderadora: Lidia Fuentes --*  |
 | 9:00  | UCA - **Procesamiento de eventos complejos: Fundamentos y arquitecturas software** |
 | 9:30  | US - **Flama: a Python collaborative framework for the automated analsys of variability models** |
 | 10:00  | UPV - **Variabilidad de Interfaces de Usuario orientada a la adaptación inteligente usando Aprendizaje por Refuerzo** |
