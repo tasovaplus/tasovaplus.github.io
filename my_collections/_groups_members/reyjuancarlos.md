@@ -5,6 +5,7 @@ university:
     acronym: URJC
     logo: /assets/images/logos/universities/urjc.png
     url: https://www.urjc.es/
+    ip: Rafael Capilla Sevilla
 group: 
     name: 
     acronym: SAIT

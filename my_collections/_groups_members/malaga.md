@@ -5,6 +5,7 @@ university:
     acronym: UMA
     logo: /assets/images/logos/universities/uma.png
     url: https://www.uma.es/
+    ip: Lidia Fuentes Fernández
 group: 
     name: Component Aspect-Oriented Software Development
     acronym: CAOSD

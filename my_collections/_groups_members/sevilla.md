@@ -5,6 +5,7 @@ university:
     acronym: US
     logo: /assets/images/logos/universities/us.png
     url: https://www.us.es/
+    ip: David Benavides Cuevas
 group: 
     name: DiversoLab
     acronym: 

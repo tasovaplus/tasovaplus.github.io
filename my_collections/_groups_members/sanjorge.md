@@ -5,6 +5,7 @@ university:
     acronym: USJ
     logo: /assets/images/logos/universities/sjuz.png
     url: https://www.usj.es/
+    ip: Carlos Cetina Englada
 group: 
     name: 
     acronym: 

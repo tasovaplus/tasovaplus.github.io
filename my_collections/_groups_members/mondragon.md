@@ -5,6 +5,7 @@ university:
     acronym: MU
     logo: /assets/images/logos/universities/mondragon.png
     url: https://www.mondragon.edu/es/inicio
+    ip: Leire Etxeberria Elorza
 group: 
     name: Grupo de Ingeniería del Software y Sistemas de la Universidad de Mondragón
     acronym: SSE@MU

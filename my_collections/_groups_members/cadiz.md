@@ -5,6 +5,7 @@ university:
     acronym: UCA
     logo: /assets/images/logos/universities/uca.png
     url: https://www.uca.es/
+    ip: Juan Boubeta Puig
 group: 
     name: 
     acronym: 

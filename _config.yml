@@ -111,7 +111,7 @@ author:
   location         : 
   email            :
   links:
-    - label: "Ref: TED2022-134337-T"
+    - label: "Ref: RED2022-134337-T"
       icon: "fas fa-fw fa-info-circle"
       url: ""
     - label: "1 junio 2023 - 31 mayo 2025"
@@ -138,7 +138,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      #url: "https://twitter.com/davbencue"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
