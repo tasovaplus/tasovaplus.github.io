@@ -11,8 +11,8 @@ search: false
 .author__avatar {
     display: table-cell;
     vertical-align: top;
-    width: 144px;
-    height: 144px;
+    width: 36px;
+    height: 36px;
   
     @include breakpoint($large) {
       display: block;
