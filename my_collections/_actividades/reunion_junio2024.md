@@ -1,6 +1,6 @@
 ---
 date: 2024-06-18
-fecha: 18 de junio 2024, 9:15-10:15h (JISBD'24 - ASV, A Coruña)
+fecha: 18 de junio 2024, 9:15h - 10:15h (JISBD'24 - ASV, A Coruña)
 name: Reunión de la red TASOVA PLUS 
 logo: /assets/images/logos/sistedes2024.png
 link: https://sistedes2024.spilab.es/jisbd/asv/programa/
