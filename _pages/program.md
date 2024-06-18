@@ -7,8 +7,28 @@ classes: wide
 redirect_from:
 - "/programa/"
 ---
-<sub>*Reunión de la red TASOVA PLUS los días 16 y 17 de enero de 2024 en Sevilla.*</sub>
-[ETSI Informática](https://maps.app.goo.gl/YC8fa9hT5zjxiab19) 
+
+### Reunión de la red TASOVA PLUS el día 18 de junio de 2024 en A Coruña
+
+*Lugar:* [Facultad de Informática (UDC)](https://maps.app.goo.gl/LGJeX6hN9JjWL5tQ8) (A Coruña) 
+
+
+|                   | *Martes, 18 Junio 2024*  (AULA A.2.0)|
+| ------------------|----------------------------------------------------|
+| | &nbsp;&nbsp;&nbsp;*-- Moderador: David Benavides --*|
+| 9:15 | Informe de avances y seguimiento de actividades de la red |
+| 9:25 | Breve informe de las colaboraciones activas de la red  |
+| 9:45 | Coloquio sobre el presente y futuro de las conferencias relacionadas con la red |
+| 10:05 | Presupuesto y próxima reunión de la red |
+| 10:15 | *Café* |
+| 10:30  | &nbsp;&nbsp;&nbsp;*-- Keynote: Tewfik Ziadi --*  |
+|        | **Beyond Software Variability Management: Exploring new oportunities through feature mapping**  |
+| 12:00  | Fin  |
+
+
+### Reunión de la red TASOVA PLUS los días 16 y 17 de enero de 2024 en Sevilla
+
+*Lugar:* [ETSI Informática](https://maps.app.goo.gl/YC8fa9hT5zjxiab19) (Sevilla) 
 
 |                   | *Martes, 16 Enero 2024*  (AULA A2.11)|
 | ------------------|----------------------------------------------------|
@@ -37,3 +57,7 @@ redirect_from:
 | 12:15  | &nbsp;&nbsp;&nbsp;*-- Moderador: David Benavides --* **Matchmaking/working sessions**  |
 | 14:00 | *Almuerzo* |
 | 16:00  | Fin del segundo día  |
+
+
+
+
