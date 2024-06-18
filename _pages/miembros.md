@@ -18,7 +18,7 @@ classes: wide
   <div class="card">
     <div class="row g-0">
         <div class="col-md-2">
-        <a href="{{member.university.url}}" title="Go to URL" target="_blank"><img src="{{member.university.logo}}" class="card-img" alt="{{{member.university.name}}"></a>
+        <a href="{{member.university.url}}" title="Go to URL" target="_blank"><img src="{{member.university.logo}}" class="card-img" alt="{{member.university.name}}"></a>
         </div>
     <div class="col-md-8">
         <div class="card-body">
