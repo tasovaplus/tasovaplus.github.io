@@ -315,3 +315,5 @@ collections:
     sort_by: number
   actividades:
     output: true
+  contribuciones:
+    output: true
