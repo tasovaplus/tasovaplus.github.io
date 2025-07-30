@@ -1,5 +1,5 @@
 ---
-number: 9
+number: 11
 name: Glencoe
 logo: /assets/images/logos/tools/glencoe.svg
 link: https://glencoe.hochschule-trier.de/

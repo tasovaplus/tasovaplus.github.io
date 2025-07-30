@@ -1,5 +1,5 @@
 ---
-number: 8
+number: 10
 name: Feature IDE
 logo: /assets/images/logos/tools/featureide.png
 link: https://featureide.github.io/

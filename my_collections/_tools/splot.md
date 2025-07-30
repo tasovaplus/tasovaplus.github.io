@@ -1,5 +1,5 @@
 ---
-number: 10
+number: 12
 name: S.P.L.O.T.
 logo: /assets/images/logos/tools/splot.png
 link: http://www.splot-research.org/

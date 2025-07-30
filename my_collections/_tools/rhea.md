@@ -1,5 +1,5 @@
 ---
-number: 4
+number: 6
 name: RHEA
 logo: /assets/images/logos/tools/rhea.svg
 link: https://rhea.caosd.lcc.uma.es/
